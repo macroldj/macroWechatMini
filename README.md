@@ -1,0 +1,2 @@
+# macroWechatMini
+## mini soft
